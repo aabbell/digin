@@ -25,6 +25,7 @@ function App() {
   }
 
   return (
+    
     <div className='min-h-screen flex flex-col'>
       <Header onSearch={handleSearch}></Header>    
       <div className='flex flex-1'> 
